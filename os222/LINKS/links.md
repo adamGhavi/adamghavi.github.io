@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Links for OS class
+permalink: /LINKS/
 ---
 
 Empty. Nothing here for now
