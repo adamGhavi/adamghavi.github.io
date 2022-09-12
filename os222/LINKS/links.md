@@ -1,5 +1,5 @@
 ---
-permalink: /LINKS/
+permalink: LINKS/
 ---
 
 Empty. Nothing here for now
