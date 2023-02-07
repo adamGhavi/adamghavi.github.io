@@ -1,2 +1,2 @@
 # adamghavi.github.io
-Operating Systems 2022-2 (Odd Semester 22/23)
+Operating Systems 2023-1 (Even Semester 22/23)
